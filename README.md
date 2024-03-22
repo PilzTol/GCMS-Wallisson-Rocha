@@ -3,3 +3,4 @@
 # Colaboradores
   Coloque seu nome abaixo neste formato  se você é um dos colaboradores do repositório:
   * Wallisson Rocha (@PilzTol, dono)
+  * Ramide Dantas (@ramidedantas)
